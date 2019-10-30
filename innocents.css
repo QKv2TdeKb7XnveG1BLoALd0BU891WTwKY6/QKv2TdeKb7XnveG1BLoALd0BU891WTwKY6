@@ -15,9 +15,31 @@
     background: url(https://QKv2TdeKb7XnveG1BLoALd0BU891WTwKY6.github.io/xbox/sticks/inno_sticks.svg);
 }
 .edit .xbox .a {
-    background: url(https://QKv2TdeKb7XnveG1BLoALd0BU891WTwKY6.github.io/xbox/buttons/a_button.png);
+    background: url(https://QKv2TdeKb7XnveG1BLoALd0BU891WTwKY6.github.io/xbox/buttons/inno_a_button.png);
 }
 
 .edit .a {
-    background: url(https://QKv2TdeKb7XnveG1BLoALd0BU891WTwKY6.github.io/xbox/buttons/a_button.png);
+    background: url(https://QKv2TdeKb7XnveG1BLoALd0BU891WTwKY6.github.io/xbox/buttons/inno_a_button.png);
+}
+.edit .xbox .b {
+    background: url(https://QKv2TdeKb7XnveG1BLoALd0BU891WTwKY6.github.io/xbox/buttons/inno_b_button.png);
+}
+
+.edit .b {
+    background: url(https://QKv2TdeKb7XnveG1BLoALd0BU891WTwKY6.github.io/xbox/buttons/inno_b_button.png);
+}
+.edit .xbox .x {
+    background: url(https://QKv2TdeKb7XnveG1BLoALd0BU891WTwKY6.github.io/xbox/buttons/inno_x_button.png);
+}
+
+.edit .x {
+    background: url(https://QKv2TdeKb7XnveG1BLoALd0BU891WTwKY6.github.io/xbox/buttons/inno_x_button.png);
+}
+
+.edit .xbox .y {
+    background: url(https://QKv2TdeKb7XnveG1BLoALd0BU891WTwKY6.github.io/xbox/buttons/inno_y_button.png);
+}
+
+.edit .y {
+    background: url(https://QKv2TdeKb7XnveG1BLoALd0BU891WTwKY6.github.io/xbox/buttons/inno_y_button.png);
 }
