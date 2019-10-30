@@ -7,16 +7,6 @@
     background: url(https://QKv2TdeKb7XnveG1BLoALd0BU891WTwKY6.github.io/xbox/base/inno_base.svg);
 }
 
-
-.edit .xbox .stick {
-    background: url(https://QKv2TdeKb7XnveG1BLoALd0BU891WTwKY6.github.io/xbox/sticks/inno_sticks.svg);
-}
-
-.edit .stick {
-    background: url(https://QKv2TdeKb7XnveG1BLoALd0BU891WTwKY6.github.io/xbox/sticks/innocents/inno_sticks.svg);
-}
-
-
 .edit .xbox .a {
     background: url(https://QKv2TdeKb7XnveG1BLoALd0BU891WTwKY6.github.io/xbox/buttons/innocents/inno_a_button.png);
 }
@@ -78,6 +68,9 @@
     background: url(https://QKv2TdeKb7XnveG1BLoALd0BU891WTwKY6.github.io/xbox/buttons/innocents/inno_y_pressed.png);
 }
 
-.edit .y.pressed {
-    background: url(https://QKv2TdeKb7XnveG1BLoALd0BU891WTwKY6.github.io/xbox/buttons/innocents/inno_y_pressed.png);
+
+
+
+.edit .xbox .stick.left {
+    background: url(https://QKv2TdeKb7XnveG1BLoALd0BU891WTwKY6.github.io/xbox/sticks/innocents/inno_stick_left.svg);
 }
