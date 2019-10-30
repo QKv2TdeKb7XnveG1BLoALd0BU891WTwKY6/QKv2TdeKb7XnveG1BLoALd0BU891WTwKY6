@@ -7,10 +7,11 @@
     background: url(https://QKv2TdeKb7XnveG1BLoALd0BU891WTwKY6.github.io/xbox/base/inno_base.svg);
 }
 
-.edit .xbox .stick {
+.edit .xbox.stick {
     background: url(https://QKv2TdeKb7XnveG1BLoALd0BU891WTwKY6.github.io/xbox/sticks/inno_sticks.svg);
 }
 
-.edit .xbox .button {
+
+.edit .xbox.button {
     background: url(https://QKv2TdeKb7XnveG1BLoALd0BU891WTwKY6.github.io/xbox/sticks/inno_sticks.svg);
 }
