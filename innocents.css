@@ -20,6 +20,16 @@
 
 .edit .a {
     background: url(https://QKv2TdeKb7XnveG1BLoALd0BU891WTwKY6.github.io/xbox/buttons/innocents/inno_a_button.png);
+
+
+    .edit .xbox .a.pressed {
+        background: url(https://QKv2TdeKb7XnveG1BLoALd0BU891WTwKY6.github.io/xbox/buttons/innocents/inno_a_pressed.png);
+    }
+
+    .edit .a.pressed {
+        background: url(https://QKv2TdeKb7XnveG1BLoALd0BU891WTwKY6.github.io/xbox/buttons/innocents/inno_a_pressed.png);
+
+
 }
 .edit .xbox .b {
     background: url(https://QKv2TdeKb7XnveG1BLoALd0BU891WTwKY6.github.io/xbox/buttons/innocents/inno_b_button.png);
