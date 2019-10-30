@@ -14,10 +14,10 @@
 .edit .stick {
     background: url(https://QKv2TdeKb7XnveG1BLoALd0BU891WTwKY6.github.io/xbox/sticks/inno_sticks.svg);
 }
-.edit .xbox .button {
-    background: url(https://QKv2TdeKb7XnveG1BLoALd0BU891WTwKY6.github.io/xbox/buttons/inno_buttons.svg);
+.edit .xbox .a {
+    background: url(https://QKv2TdeKb7XnveG1BLoALd0BU891WTwKY6.github.io/xbox/buttons/a_button.png);
 }
 
-.edit .button {
-    background: url(https://QKv2TdeKb7XnveG1BLoALd0BU891WTwKY6.github.io/xbox/buttons/inno_buttons.svg);
+.edit .a {
+    background: url(https://QKv2TdeKb7XnveG1BLoALd0BU891WTwKY6.github.io/xbox/buttons/a_button.png);
 }
