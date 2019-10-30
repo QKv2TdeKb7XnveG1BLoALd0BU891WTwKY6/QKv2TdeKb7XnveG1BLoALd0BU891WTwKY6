@@ -68,9 +68,14 @@
     background: url(https://QKv2TdeKb7XnveG1BLoALd0BU891WTwKY6.github.io/xbox/buttons/innocents/inno_y_pressed.png);
 }
 
-
-
+.edit .y.pressed {
+    background: url(https://QKv2TdeKb7XnveG1BLoALd0BU891WTwKY6.github.io/xbox/buttons/innocents/inno_y_pressed.png);
+}
 
 .edit .xbox .stick.left {
+    background: url(https://QKv2TdeKb7XnveG1BLoALd0BU891WTwKY6.github.io/xbox/sticks/innocents/inno_stick_left.png);
+}
+
+.edit .stick.left {
     background: url(https://QKv2TdeKb7XnveG1BLoALd0BU891WTwKY6.github.io/xbox/sticks/innocents/inno_stick_left.png);
 }
