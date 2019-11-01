@@ -38,3 +38,7 @@
 .edit .y.pressed {
     background: url(https://QKv2TdeKb7XnveG1BLoALd0BU891WTwKY6.github.io/ps4/buttons/destroy/destroy_pressed.png);
 }
+
+.edit .touchpad.pressed {
+    background: url(https://QKv2TdeKb7XnveG1BLoALd0BU891WTwKY6.github.io/ps4/touchpad/destroy/destroy_touchpad.svg);
+}
