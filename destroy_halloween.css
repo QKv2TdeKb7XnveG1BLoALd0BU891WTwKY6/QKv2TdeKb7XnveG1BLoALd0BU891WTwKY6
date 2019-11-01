@@ -1,14 +1,14 @@
 .edit .controller.ds4 {
-    background: url(https://QKv2TdeKb7XnveG1BLoALd0BU891WTwKY6.github.io/ps4/base/destroy_base.svg);
+    background: url(https://QKv2TdeKb7XnveG1BLoALd0BU891WTwKY6.github.io/ps4/base/destroy_hall_base.svg);
 }
 
 
 .controller.edit {
-    background: url(https://QKv2TdeKb7XnveG1BLoALd0BU891WTwKY6.github.io/ps4/base/destroy_base.svg);
+    background: url(https://QKv2TdeKb7XnveG1BLoALd0BU891WTwKY6.github.io/ps4/base/destroy_hall_base.svg);
 }
 
 .edit .a {
-    background: url(https://QKv2TdeKb7XnveG1BLoALd0BU891WTwKY6.github.io/ps4/buttons/destroy/destroy_button.png);
+    background: url(https://QKv2TdeKb7XnveG1BLoALd0BU891WTwKY6.github.io/ps4/buttons/destroy/destroy__hall_button.png);
 }
 
 .edit .a.pressed {
@@ -16,7 +16,7 @@
 }
 
 .edit .b {
-    background: url(https://QKv2TdeKb7XnveG1BLoALd0BU891WTwKY6.github.io/ps4/buttons/destroy/destroy_button.png);
+    background: url(https://QKv2TdeKb7XnveG1BLoALd0BU891WTwKY6.github.io/ps4/buttons/destroy/destroy__hall_button.png);
 }
 
 .edit .b.pressed {
@@ -24,7 +24,7 @@
 }
 
 .edit .x {
-    background: url(https://QKv2TdeKb7XnveG1BLoALd0BU891WTwKY6.github.io/ps4/buttons/destroy/destroy_button.png);
+    background: url(https://QKv2TdeKb7XnveG1BLoALd0BU891WTwKY6.github.io/ps4/buttons/destroy/destroy__hall_button.png);
 }
 
 .edit .x.pressed {
@@ -32,7 +32,7 @@
 }
 
 .edit .y {
-    background: url(https://QKv2TdeKb7XnveG1BLoALd0BU891WTwKY6.github.io/ps4/buttons/destroy/destroy_button.png);
+    background: url(https://QKv2TdeKb7XnveG1BLoALd0BU891WTwKY6.github.io/ps4/buttons/destroy/destroy__hall_button.png);
 }
 
 .edit .y.pressed {
