@@ -39,7 +39,11 @@
     background: url(https://QKv2TdeKb7XnveG1BLoALd0BU891WTwKY6.github.io/ps4/buttons/ex/ex_pressed.png);
 }
 
+.edit .face .ds4 {
+    background: url(https://QKv2TdeKb7XnveG1BLoALd0BU891WTwKY6.github.io/ps4/dpad/ex/ex_dpad.png);
+}
+
 .edit .face {
     position: absolute;
-    background: url(https://QKv2TdeKb7XnveG1BLoALd0BU891WTwKY6.github.io\ps4\dpad\ex\ex_dpad.png);
+    background: url(https://QKv2TdeKb7XnveG1BLoALd0BU891WTwKY6.github.io/ps4/dpad/ex/ex_dpad.png);
 }
