@@ -1,6 +1,6 @@
 var App = {};
 var userId = window.location.pathname.split('?')[0].substring(1);
-// var userId = '5b2e3e66f37dc906fc29d608';
+// var userId = '5d66f934e498597c90d42c99';
 
 var container = document.getElementById('container');
 var currentAlbumCover = document.getElementById('album-current');
@@ -275,7 +275,7 @@ App.updateSongName = function(artists = [], name) {
     }, 550);
     setTimeout(function() {
         songName.textContent = name;
-        
+
         void songName.offsetWidth;
 
         if (songName.offsetWidth > maxWidth) {
@@ -310,7 +310,7 @@ App.updateCover = function(cover) {
 };
 
 App.transitionCover = function(cover) {
-    
+
 };
 
 function playerError(error) {
