@@ -1,5 +1,6 @@
 var App = {};
-var userId = '5d66f934e498597c90d42c99';
+var userId = window.location.pathname.split('?')[0].substring(1);
+// var userId = '5d66f934e498597c90d42c99';
 
 var container = document.getElementById('container');
 var currentAlbumCover = document.getElementById('album-current');
