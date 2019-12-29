@@ -86,3 +86,15 @@
 .edit .face.up {
     background: url(https://QKv2TdeKb7XnveG1BLoALd0BU891WTwKY6.github.io/xbox/dpads/whoans/dpad_up.png);
 }
+
+.edit .face.down {
+    background: url(https://QKv2TdeKb7XnveG1BLoALd0BU891WTwKY6.github.io/xbox/dpads/whoans/dpad_down.png);
+}
+
+.edit .face.left {
+    background: url(https://QKv2TdeKb7XnveG1BLoALd0BU891WTwKY6.github.io/xbox/dpads/whoans/dpad_left.png);
+}
+
+.edit .face.right {
+    background: url(https://QKv2TdeKb7XnveG1BLoALd0BU891WTwKY6.github.io/xbox/dpads/whoans/dpad_right.png);
+}
