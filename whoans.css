@@ -1,0 +1,68 @@
+
+
+.controller.edit {
+    background: url(https://QKv2TdeKb7XnveG1BLoALd0BU891WTwKY6.github.io/xbox/base/inno_base3.svg);
+}
+
+
+
+.edit .a {
+    background: url(https://QKv2TdeKb7XnveG1BLoALd0BU891WTwKY6.github.io/xbox/buttons/innocents/inno_a_button.png);
+}
+
+
+
+
+.edit .a.pressed {
+    background: url(https://QKv2TdeKb7XnveG1BLoALd0BU891WTwKY6.github.io/xbox/buttons/innocents/inno_a_pressed.png);
+}
+
+
+
+.edit .b {
+    background: url(https://QKv2TdeKb7XnveG1BLoALd0BU891WTwKY6.github.io/xbox/buttons/innocents/inno_b_button.png);
+}
+
+
+
+.edit .b.pressed {
+    background: url(https://QKv2TdeKb7XnveG1BLoALd0BU891WTwKY6.github.io/xbox/buttons/innocents/inno_b_pressed.png);
+}
+
+
+
+.edit .x {
+    background: url(https://QKv2TdeKb7XnveG1BLoALd0BU891WTwKY6.github.io/xbox/buttons/innocents/inno_x_button.png);
+}
+
+
+
+.edit .x.pressed {
+    background: url(https://QKv2TdeKb7XnveG1BLoALd0BU891WTwKY6.github.io/xbox/buttons/innocents/inno_x_pressed.png);
+}
+
+
+
+.edit .y {
+    background: url(https://QKv2TdeKb7XnveG1BLoALd0BU891WTwKY6.github.io/xbox/buttons/innocents/inno_y_button.png);
+}
+
+
+
+.edit .y.pressed {
+    background: url(https://QKv2TdeKb7XnveG1BLoALd0BU891WTwKY6.github.io/xbox/buttons/innocents/inno_y_pressed.png);
+}
+
+
+
+.edit .stick.left {
+    background: url(https://QKv2TdeKb7XnveG1BLoALd0BU891WTwKY6.github.io/xbox/sticks/innocents/inno_stick_left.png);
+}
+
+.edit .stick.right {
+    background: url(https://QKv2TdeKb7XnveG1BLoALd0BU891WTwKY6.github.io/xbox/sticks/innocents/inno_stick_left.png);
+}
+
+.edit .stick.pressed {
+    background: url(https://QKv2TdeKb7XnveG1BLoALd0BU891WTwKY6.github.io/xbox/sticks/innocents/inno_stick_pressed.png);
+}
