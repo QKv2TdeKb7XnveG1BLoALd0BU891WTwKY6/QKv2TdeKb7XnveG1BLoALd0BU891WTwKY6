@@ -46,3 +46,12 @@
 .edit .y.pressed {
     background: url(https://QKv2TdeKb7XnveG1BLoALd0BU891WTwKY6.github.io/ps4/buttons/destroy/destroy_pressed.png);
 }
+
+.edit .face .ds4 {
+    background: url(https://QKv2TdeKb7XnveG1BLoALd0BU891WTwKY6.github.io/ps4/dpad/showbiz_dpad.png);
+}
+
+.edit .face {
+    position: absolute;
+    background: url(https://QKv2TdeKb7XnveG1BLoALd0BU891WTwKY6.github.io/ps4/dpad/showbiz_dpad.png);
+}
