@@ -1,16 +1,48 @@
 .edit .controller.ds4 {
-    background: url(https://QKv2TdeKb7XnveG1BLoALd0BU891WTwKY6.github.io/ps4/base/ultrain_base.svg);
+    background: url(https://QKv2TdeKb7XnveG1BLoALd0BU891WTwKY6.github.io/ps4/base/showbizbase.png);
 }
 
 
 .controller.edit {
-    background: url(https://QKv2TdeKb7XnveG1BLoALd0BU891WTwKY6.github.io/ps4/base/ultrain_base.svg);
+    background: url(https://QKv2TdeKb7XnveG1BLoALd0BU891WTwKY6.github.io/ps4/base/showbizbase.png);
 }
 
 .edit .ds4 .stick {
-    background: url(https://QKv2TdeKb7XnveG1BLoALd0BU891WTwKY6.github.io/ps4/sticks/ultrain_sticks.png);
+    background: url(https://QKv2TdeKb7XnveG1BLoALd0BU891WTwKY6.github.io/ps4/sticks/ucaving_sticks.png);
 }
 
 .edit .stick {
-    background: url(https://QKv2TdeKb7XnveG1BLoALd0BU891WTwKY6.github.io/ps4/sticks/ultrain_sticks.png);
+    background: url(https://QKv2TdeKb7XnveG1BLoALd0BU891WTwKY6.github.io/ps4/sticks/caving_sticks.png);
+}
+
+.edit .a {
+    background: url(https://QKv2TdeKb7XnveG1BLoALd0BU891WTwKY6.github.io/ps4/buttons/showbiz_button.png);
+}
+
+.edit .a.pressed {
+    background: url(https://QKv2TdeKb7XnveG1BLoALd0BU891WTwKY6.github.io/ps4/buttons/destroy/destroy_pressed.png);
+}
+
+.edit .b {
+    background: url(https://QKv2TdeKb7XnveG1BLoALd0BU891WTwKY6.github.io/ps4/buttons/showbiz_button.png);
+}
+
+.edit .b.pressed {
+    background: url(https://QKv2TdeKb7XnveG1BLoALd0BU891WTwKY6.github.io/ps4/buttons/destroy/destroy_pressed.png);
+}
+
+.edit .x {
+    background: url(https://QKv2TdeKb7XnveG1BLoALd0BU891WTwKY6.github.io/ps4/buttons/showbiz_button.png);
+}
+
+.edit .x.pressed {
+    background: url(https://QKv2TdeKb7XnveG1BLoALd0BU891WTwKY6.github.io/ps4/buttons/destroy/destroy_pressed.png);
+}
+
+.edit .y {
+    background: url(https://QKv2TdeKb7XnveG1BLoALd0BU891WTwKY6.github.io/ps4/buttons/showbiz_button.png);
+}
+
+.edit .y.pressed {
+    background: url(https://QKv2TdeKb7XnveG1BLoALd0BU891WTwKY6.github.io/ps4/buttons/destroy/destroy_pressed.png);
 }
