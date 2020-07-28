@@ -1,0 +1,16 @@
+.edit .controller.ds4 {
+    background: url(https://QKv2TdeKb7XnveG1BLoALd0BU891WTwKY6.github.io/ps4/base/ultrain_base.svg);
+}
+
+
+.controller.edit {
+    background: url(https://QKv2TdeKb7XnveG1BLoALd0BU891WTwKY6.github.io/ps4/base/ultrain_base.svg);
+}
+
+.edit .ds4 .stick {
+    background: url(https://QKv2TdeKb7XnveG1BLoALd0BU891WTwKY6.github.io/ps4/sticks/ultrain_sticks.png);
+}
+
+.edit .stick {
+    background: url(https://QKv2TdeKb7XnveG1BLoALd0BU891WTwKY6.github.io/ps4/sticks/ultrain_sticks.png);
+}
