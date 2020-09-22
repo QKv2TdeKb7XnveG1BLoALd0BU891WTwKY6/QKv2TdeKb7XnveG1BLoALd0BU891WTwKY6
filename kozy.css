@@ -1,0 +1,41 @@
+.edit .controller.ds4 {
+    background: url(https://QKv2TdeKb7XnveG1BLoALd0BU891WTwKY6.github.io/ps4/base/greenmonkey_base.png);
+}
+
+
+.controller.edit {
+    background: url(https://QKv2TdeKb7XnveG1BLoALd0BU891WTwKY6.github.io/ps4/base/greenmonkey_base.png);
+}
+
+.edit .a {
+    background: url(https://QKv2TdeKb7XnveG1BLoALd0BU891WTwKY6.github.io/ps4/buttons/greenmonkey/a_face.png);
+}
+
+.edit .a.pressed {
+    background: url(https://QKv2TdeKb7XnveG1BLoALd0BU891WTwKY6.github.io/ps4/buttons/greenmonkey/a_pressed.png);
+}
+
+.edit .b {
+    background: url(https://QKv2TdeKb7XnveG1BLoALd0BU891WTwKY6.github.io/ps4/buttons/greenmonkey/b_face.png);
+}
+
+.edit .b.pressed {
+    background: url(https://QKv2TdeKb7XnveG1BLoALd0BU891WTwKY6.github.io/ps4/buttons/greenmonkey/b_pressed.png);
+}
+
+.edit .x {
+    background: url(https://QKv2TdeKb7XnveG1BLoALd0BU891WTwKY6.github.io/ps4/buttons/greenmonkey/x_face.png);
+}
+
+.edit .x.pressed {
+    background: url(https://QKv2TdeKb7XnveG1BLoALd0BU891WTwKY6.github.io/ps4/buttons/greenmonkey/x_pressed.png);
+}
+
+.edit .y {
+    background: url(https://QKv2TdeKb7XnveG1BLoALd0BU891WTwKY6.github.io/ps4/buttons/greenmonkey/y_face.png);
+}
+
+.edit .y.pressed {
+    background: url(https://QKv2TdeKb7XnveG1BLoALd0BU891WTwKY6.github.io/ps4/buttons/greenmonkey/y_pressed.png);
+}
+
