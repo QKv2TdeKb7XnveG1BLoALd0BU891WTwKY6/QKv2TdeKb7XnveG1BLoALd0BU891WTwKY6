@@ -14,3 +14,6 @@
 .edit .stick.right {
     background: url(https://QKv2TdeKb7XnveG1BLoALd0BU891WTwKY6.github.io/xbox/sticks/innocents/inno_stick_left.png);
 }
+.edit .stick.pressed {
+    background: url(https://QKv2TdeKb7XnveG1BLoALd0BU891WTwKY6.github.io/xbox/sticks/innocents/stick_pressed.png);
+}
