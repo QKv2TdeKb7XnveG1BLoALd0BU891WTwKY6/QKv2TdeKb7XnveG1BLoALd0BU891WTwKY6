@@ -6,3 +6,12 @@
 .controller.edit {
     background: url(https://QKv2TdeKb7XnveG1BLoALd0BU891WTwKY6.github.io/ps4/base/devious_base.png);
 }
+
+.edit .face .ds4 {
+    background: url(https://QKv2TdeKb7XnveG1BLoALd0BU891WTwKY6.github.io/ps4/dpad/devious_dpad.png);
+}
+
+.edit .face {
+    position: absolute;
+    background: url(https://QKv2TdeKb7XnveG1BLoALd0BU891WTwKY6.github.io/ps4/dpad/devious_dpad.png);
+}
